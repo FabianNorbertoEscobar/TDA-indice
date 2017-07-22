@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1476397428 source:d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\funciones.c
+	"header.h"
+
+1476395938 d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"TDA_Ìndice_est·tico.h"
+	"lista_simplemente_enlazada.h"
+
+1476142627 d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\tda_Ìndice_est·tico.h
+	"registro.h"
+
+1476140485 d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\registro.h
+
+1476046410 d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\lista_simplemente_enlazada.h
+	"dato.h"
+
+1476393698 d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\dato.h
+
+1476046425 source:d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\lista_simplemente_enlazada.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_simplemente_enlazada.h"
+
+1476149222 source:d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\tda_Ìndice_est·tico.c
+	"TDA_Ìndice_est·tico.h"
+	<stdio.h>
+	<stdlib.h>
+
+1476399529 source:d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 3\main.c
+	"header.h"
+
+1476399872 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\funciones.c
+	"header.h"
+
+1477184278 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"TDA_Ìndice_est·tico.h"
+	"lista_simplemente_enlazada.h"
+
+1477174094 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\tda_Ìndice_est·tico.h
+	"registro.h"
+	"primitivas_cola_est·tica.h"
+
+1476140485 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\registro.h
+
+1477180968 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\primitivas_cola_est·tica.h
+	"dato.h"
+
+1477177670 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\dato.h
+
+1477184369 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\lista_simplemente_enlazada.h
+	"dato.h"
+
+1476046425 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\lista_simplemente_enlazada.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_simplemente_enlazada.h"
+
+1476399529 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3\main.c
+	"header.h"
+
+1480538877 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\main.c
+	"header.h"
+
+1480540325 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"TDA_Ìndice_est·tico.h"
+
+1480526983 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\tda_Ìndice_est·tico.h
+	"registro.h"
+	"primitivas_cola_est·tica.h"
+
+1480527074 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\registro.h
+
+1480526988 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\primitivas_cola_est·tica.h
+	"dato.h"
+
+1480533372 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\dato.h
+
+1480531264 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\primitivas_cola_est·tica.c
+	"primitivas_cola_est·tica.h"
+
+1480532115 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\tda_Ìndice_est·tico.c
+	"TDA_Ìndice_est·tico.h"
+	<stdio.h>
+	<stdlib.h>
+
+1480541204 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 3 - retocado\funciones.c
+	"header.h"
+
+1480613772 source:c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\main.c
+	"header.h"
+
+1480540326 c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"TDA_Ìndice_est·tico.h"
+
+1480526984 c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\tda_Ìndice_est·tico.h
+	"registro.h"
+	"primitivas_cola_est·tica.h"
+
+1480527076 c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\registro.h
+
+1480526990 c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\primitivas_cola_est·tica.h
+	"dato.h"
+
+1480533374 c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\dato.h
+
+1480531266 source:c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\primitivas_cola_est·tica.c
+	"primitivas_cola_est·tica.h"
+
+1480621588 source:c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\tda_Ìndice_est·tico.c
+	"TDA_Ìndice_est·tico.h"
+	<stdio.h>
+	<stdlib.h>
+
+1480621588 source:c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 3\funciones.c
+	"header.h"
+
+1480531266 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\primitivas_cola_est·tica.c
+	"primitivas_cola_est·tica.h"
+
+1480526990 d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\primitivas_cola_est·tica.h
+	"dato.h"
+
+1480627250 d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\dato.h
+
+1480629142 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\funciones.c
+	"header.h"
+
+1480540326 d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"TDA_Ìndice_est·tico.h"
+
+1480526984 d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\tda_Ìndice_est·tico.h
+	"registro.h"
+	"primitivas_cola_est·tica.h"
+
+1480527076 d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\registro.h
+
+1480628420 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\main.c
+	"header.h"
+
+1480627388 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 3\tda_Ìndice_est·tico.c
+	"TDA_Ìndice_est·tico.h"
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1475189792 source:d:\unlam\programaci”n\fabian 2\trabajo pr¡ctico integrador\parte 1\funciones.c
+	"header.h"
+
+1474855374 d:\unlam\programaci”n\fabian 2\trabajo pr¡ctico integrador\parte 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1475190101 source:d:\unlam\programaci”n\fabian 2\trabajo pr¡ctico integrador\parte 1\main.c
+	"header.h"
+
+1476063728 source:d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 1\funciones.c
+	"header.h"
+
+1476056047 d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1476063487 source:d:\unlam\programaci”n\fabian\trabajo pr¡ctico integrador\parte 1\main.c
+	"header.h"
+
+1480530735 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 1\funciones.c
+	"header.h"
+
+1480529339 d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1480529401 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador\parte 1\main.c
+	"header.h"
+
+1480607387 source:c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 1\main.c
+	"header.h"
+
+1480607410 c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1480611160 source:c:\users\ezequiel\desktop\trabajo pr¡ctico integrador\parte 1\funciones.c
+	"header.h"
+
+1480626796 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 1\funciones.c
+	"header.h"
+
+1480626388 d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1480626446 source:d:\unlam\programaci”n\trabajo pr¡ctico integrador(corregido)\parte 1\main.c
+	"header.h"
+
